@@ -1,0 +1,3 @@
+turnConfig = {
+    iceServers: [{   urls: [ "stun:bn-turn1.xirsys.com" ]}, {   username: "28B_rPlXwIxNUeQMhf-UyQlDUFBfDQKaJpmeU4-CX5dC5dD2guv8FBFPN-8LikaqAAAAAGF_wZRwcmFzYW5n",   credential: "9eb1632a-3afe-11ec-b475-0242ac140004",   urls: [       "turn:bn-turn1.xirsys.com:80?transport=udp",       "turn:bn-turn1.xirsys.com:3478?transport=udp",       "turn:bn-turn1.xirsys.com:80?transport=tcp",       "turn:bn-turn1.xirsys.com:3478?transport=tcp",       "turns:bn-turn1.xirsys.com:443?transport=tcp",       "turns:bn-turn1.xirsys.com:5349?transport=tcp"   ]}]
+}
